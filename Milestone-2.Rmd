@@ -7,6 +7,10 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+#Project Pros and Cons
+##caievelyn's outwit_outplay_outlast
+###
+#Project Pros and Cons: wsmiles000's ##Trumps-Tweets-Stock-Market
+###
 ```
-
-
